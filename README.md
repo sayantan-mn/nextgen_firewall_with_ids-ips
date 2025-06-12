@@ -27,7 +27,7 @@ Traditional security tools are not enough in a world where cyber threats evolve 
 Most firewalls and intrusion systems work in isolation. But real-world networks need real-time, unified insights. This project was built to solve that — to give admins and security teams a **single window** into their traffic, threats, and security rules, all in one place.
 
 ## 📊 Dashboard Preview
-
+![dashboard](screenshots/Img1.png)
 
 ## 📈 What It Can Do (So Far)
 
@@ -47,6 +47,8 @@ Most firewalls and intrusion systems work in isolation. But real-world networks 
 - `pip` and virtual environment (optional but recommended)
 
 #### ▶️ Step 1: Clone the Repository
+git clone https://github.com/sayantan-mn/nextgen_firewall_with_ids-ips.git
+cd nextgen_firewall_with_ids-ips
 
 #### 🧪 Step 2: Set up the Backend
 - cd backend_flask
@@ -56,6 +58,7 @@ Most firewalls and intrusion systems work in isolation. But real-world networks 
 
 #### 💻 Step 3: Set up the Frontend
 - cd frontend_react
+- npm install
 - npm start
 
 ### 🔒 Use Cases
